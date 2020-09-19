@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-lopes-841258171/)](https://www.linkedin.com/in/leandro-lopes-841258171/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mundodev_br)](https://twitter.com/mundodev_br)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-silver?logo=gmail&style=flat-square&link=lopesleandro.it@gmail.com)](lopesleandro.it@gmail.com)
-
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.com/channels/@Leandro_Lopes#3507)](https://discord.com/channels/@Leandro_Lopes#3507)
 
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
