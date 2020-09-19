@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm constantly seeking to evolve as a professional, as a person and I'm always open to help within my means and knowledge
 
 <!--
 **lopes-leandro/lopes-leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:zap:
+
+
+
+
+![](http://img.shields.io/badge/LeandroLopes-blue?logo=linkedin&style=for-the-badge&?link=https://www.linkedin.com/in/leandro-lopes-841258171/)
+![](http://img.shields.io/badge/Gmail-silver?logo=gmail&style=for-the-badge?link=lopesleandro.it@gmail.com)
