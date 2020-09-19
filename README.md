@@ -1,6 +1,13 @@
 ### Hi there, I'm constantly seeking to evolve as a professional, as a person and I'm always open to help within my means and knowledge
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lopes-leandro)](https://github.com/lopes-leandro)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-lopes-841258171/)](https://www.linkedin.com/in/leandro-lopes-841258171/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mundodev_br)](https://twitter.com/mundodev_br)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-silver?logo=gmail&style=flat-square&link=lopesleandro.it@gmail.com)](lopesleandro.it@gmail.com)
+
 
 <!--
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
+
 **lopes-leandro/lopes-leandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,11 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-:zap:
-
-
-
-
-![](http://img.shields.io/badge/LeandroLopes-blue?logo=linkedin&style=for-the-badge&?link=https://www.linkedin.com/in/leandro-lopes-841258171/)
-![](http://img.shields.io/badge/Gmail-silver?logo=gmail&style=for-the-badge?link=lopesleandro.it@gmail.com)
