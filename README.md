@@ -37,7 +37,7 @@
 [![](https://img.shields.io/badge/koa.js%20-%23404d59.svg?&style=flat-square)]()
 [![](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)]()
 [![](https://img.shields.io/badge/git_kraken-000.svg?&style=flat-square&logo=gitkraken&logoColor=white)]()
-[![](https://img.shields.io/badge/github_actions-2088FF.svg?&style=flat-square&logo=githubactions&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=flat-square&logo=github-actions&logoColor=white)]()
 [![](https://img.shields.io/badge/next_js-000.svg?&style=flat-square&logo=nextdotjs&logoColor=white)]()
 
 
