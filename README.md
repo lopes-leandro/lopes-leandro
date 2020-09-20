@@ -6,6 +6,30 @@
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.com/channels/@LeandroLopes#3507)](https://discord.com/channels/@LeandroLopes#3507)
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@lopesleandro.it)](https://medium.com/@lopesleandro.it)
 
+## Habilidades
+[![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white")]()
+[![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)]()
+[![](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)]()
+[![](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white)]()
+[![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)]()
+[![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)]()
+[![](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=flat-square&logo=material-ui&logoColor=white)]()
+[![](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat-square&logo=c-sharp&logoColor=white)]()
+[![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)]()
+[![](https://img.shields.io/badge/mysql-000.svg?&style=flat-square&logo=mysql&logoColor=white)]()
+
+## Sempre olhando para os lados... em busca de novas habilidades
+[![](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat-square)]()
+[![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)]()
+[![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)]()
+[![](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)]()
+[![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)]()
+[![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square)]()
+[![](https://img.shields.io/badge/koa.js%20-%23404d59.svg?&style=flat-square)]()
+[![](https://img.shields.io/badge/go-%2300ADD8.svg?&style=flat-square&logo=go&logoColor=white)]()
+
+
 <!--
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
