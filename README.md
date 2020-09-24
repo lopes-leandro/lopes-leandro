@@ -1,4 +1,5 @@
-### Hi there, I'm constantly seeking to evolve as a professional, as a person and I'm always open to help within my means and knowledge
+### Olá!!! Meu nome é Leandro, comecei na programação desde 1998 com VB6, atualmente sou Desenvolvedor Web com uma longa passagem pela a stack Microsoft como Web Forms, ASP.Net MVC e atualmente estou desbravando novas stacks como Angular 2, React, Node.JS entre outras coisas... Obrigado pela visita!!!
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lopes-leandro)](https://github.com/lopes-leandro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-lopes-841258171/)](https://www.linkedin.com/in/leandro-lopes-841258171/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mundodev_br)](https://twitter.com/mundodev_br)
