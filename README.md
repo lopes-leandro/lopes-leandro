@@ -1,4 +1,4 @@
-### Olá!!! Meu nome é Leandro, comecei na programação desde 1998 com VB6, atualmente sou Desenvolvedor Web com uma longa passagem pela a stack Microsoft como Web Forms, ASP.Net MVC e atualmente estou desbravando novas stacks como Angular 2, React, Node.JS entre outras coisas...
+### Olá!!! Estou em desenvolvimento
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lopes-leandro)](https://github.com/lopes-leandro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-lopes-841258171/)](https://www.linkedin.com/in/leandro-lopes-841258171/)
@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/Visual_Studio_Code-007acc.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)]()
 [![](https://img.shields.io/badge/Visual_Studio-5c2d91.svg?&style=flat-square&logo=visual-studio&logoColor=white)]()
 
-## Sempre olhando ao redor... em busca de novas habilidades
+## Coisas que me interessam
 [![](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat-square)]()
 [![](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)]()
 [![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)]()
